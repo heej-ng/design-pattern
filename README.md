@@ -5,7 +5,7 @@ design pattern example code study
 
 >- singleton pattern
 >- adapter pattern
->- proxy pattern
+>- proxy pattern (+AOP)
 >- decorator pattern
 >- observer pattern
 >- facade pattern
