@@ -1,5 +1,5 @@
 # design-pattern
-design pattern example code study
+design pattern study example code
 
 디자인 패턴 스터디
 
